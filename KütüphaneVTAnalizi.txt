@@ -1,0 +1,42 @@
+> Kütüphane Veri Tabanı Analizi
+
+1) Hayata geçirilecek sistem neye hizmet edecek?
+> Hayata geçirilecek olan sistem, herhangi bir kütüphane içerisinde aynı yazarlı olan romanları görüntüleme kolaylığı sağlayacak.
+ 
+2) Veri tabanı hangi ihtiyaçları karşılayacak?
+> Her bir yazara ait farklı numara olacak ve sorgulama işlemi bu numaraya göre yapılabilecek,
+> Her yayınevine ait farklı bir numarası verilecek ve bu numara ile sorgulama yapılabilecek,
+> Veri tabanı içerisindeki her eser için farklı kayıt numarası ve kayıt tarihi verilecek,
+> Kitapların künye bilgileri kayıt edilip sorgulama yapılabilecek,
+> Kitapların yer aldığı yayınevleri kaydedilecek ve yayınevi adları ile sorgulanabilecek,
+> Yazarlarla ilgi detaylı bilgilere yer verilecek,
+> Eserin kaç adet basıldığı bilgisi yer alacak,
+> Yazar hakkında bilgi veren web site bilgisine yer verilecek.
+
+
+3) Veri tabanında hangi veriler depolanacak?
+> Kitap Verileri
+> Yazar verileri
+> Yayınevi verileri
+
+4) Veri tabanında ne tür veriler depolanacak.
+A) Kitap Verileri
+> Eser Adı,
+> Basım Yılı
+> Kitap Adedi,
+> Kitap Kayıt tarihi,
+> Kitap No,
+> Kitap Dili,
+> Kitabın Fiziksel özellikleri.
+
+B) Yazar Verileri
+> Yazar Adı,
+> Yazar Soyadı,
+> Yazar Web Adresi,
+> Yazar No.
+
+C) Yayınevi Verileri
+> Yayınevi Adı,
+> Yayınevi No,
+> Yayınevi Web Adresi,
+> Yayınevi E-posta.
